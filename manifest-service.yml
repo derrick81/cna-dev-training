@@ -1,0 +1,9 @@
+---
+applications:
+- name: employee-api
+  memory: 1G
+  instances: 1
+  random-route: true
+  path: ./target/employeesapi-0.0.1-SNAPSHOT.jar
+  services:
+  - pas-mysql

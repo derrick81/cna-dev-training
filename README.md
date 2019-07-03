@@ -1,2 +1,1 @@
-# springboot-to-pcf
-# cna-dev-training
+# Pivotal Cloud Native Application Developer Training

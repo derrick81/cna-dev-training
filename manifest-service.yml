@@ -6,4 +6,4 @@ applications:
   random-route: true
   path: ./target/employeesapi-0.0.1-SNAPSHOT.jar
   services:
-  - pas-mysql
+  - emp-db-svc
